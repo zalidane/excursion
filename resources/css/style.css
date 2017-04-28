@@ -1,0 +1,34 @@
+body{
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+.heading{
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+.subheading{
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.caption{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+a{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.copy{
+  text-align: right;
+  font-size: 21px;
+  color: gray;
+}
